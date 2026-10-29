@@ -1,0 +1,501 @@
+hotel_name,record_date,meal_type,food_item_name,actual_guest_count,actual_quantity_consumed,unit,actual_quantity_prepared,waste_quantity,occupancy_rate,is_weekend,is_holiday_or_event,season
+Azure Bay Business Hotel,2026-10-26,Breakfast,Fresh Orange & Fruit Juice,100,26.31,litres,27.72,1.41,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Brewed Roast Coffee,100,20.49,litres,21.88,1.39,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Whole Fresh Milk,100,14.44,litres,15.1,0.66,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Plain Greek Yogurt,100,12.34,kg,13.25,0.91,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Fresh Butter Croissants,100,143.05,pieces,154.24,11.19,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Artisan Dinner Rolls,100,125.68,pieces,133.19,7.51,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Fresh Scrambled Eggs,100,15.09,kg,16.27,1.18,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Crispy Hash Browns,100,183.39,pieces,196.15,12.76,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Steamed Basmati Rice,80,14.47,kg,15.18,0.71,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Butter Chicken Gravy,80,16.93,kg,17.74,0.81,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Paneer Tikka Masala,80,16.81,kg,18.03,1.22,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Dal Makhani,80,12.27,kg,12.8,0.53,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Fresh Orange & Fruit Juice,80,21.07,litres,22.63,1.56,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Brewed Roast Coffee,80,16.07,litres,16.97,0.9,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Mediterranean Garden Salad,80,8.62,kg,9.21,0.59,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Grilled Chicken Breast Cutlets,80,16.45,kg,17.42,0.97,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Warm Chocolate Brownies,80,91.21,pieces,98.2,6.99,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Vanilla Panna Cotta Cups,80,80.82,pieces,84.92,4.1,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Steamed Basmati Rice,65,12.51,kg,13.08,0.57,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Butter Chicken Gravy,65,13.71,kg,14.43,0.72,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Paneer Tikka Masala,65,13.67,kg,14.26,0.59,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Dal Makhani,65,10.57,kg,11.28,0.71,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Fresh Orange & Fruit Juice,65,15.64,litres,16.39,0.75,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Brewed Roast Coffee,65,12.66,litres,13.29,0.63,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Mediterranean Garden Salad,65,6.73,kg,7.26,0.53,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Grilled Chicken Breast Cutlets,65,14.72,kg,15.87,1.15,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Warm Chocolate Brownies,65,76.92,pieces,80.57,3.65,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Lunch,Vanilla Panna Cotta Cups,65,63.6,pieces,66.29,2.69,0.56,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Breakfast,Fresh Orange & Fruit Juice,66,17.25,litres,18.12,0.87,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Breakfast,Brewed Roast Coffee,66,13.92,litres,14.89,0.97,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Breakfast,Whole Fresh Milk,66,10.41,litres,10.85,0.44,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Breakfast,Plain Greek Yogurt,66,7.78,kg,8.14,0.36,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Breakfast,Fresh Butter Croissants,66,93.4,pieces,100.13,6.73,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Breakfast,Artisan Dinner Rolls,66,78.58,pieces,82.1,3.52,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Breakfast,Fresh Scrambled Eggs,66,9.22,kg,9.77,0.55,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Breakfast,Crispy Hash Browns,66,116.27,pieces,123.51,7.24,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Steamed Basmati Rice,53,9.44,kg,10.19,0.75,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Butter Chicken Gravy,53,12.0,kg,12.77,0.77,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Paneer Tikka Masala,53,10.07,kg,10.56,0.49,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Dal Makhani,53,8.37,kg,8.71,0.34,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Fresh Orange & Fruit Juice,53,13.56,litres,14.31,0.75,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Brewed Roast Coffee,53,10.52,litres,11.0,0.48,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Mediterranean Garden Salad,53,5.52,kg,5.77,0.25,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Grilled Chicken Breast Cutlets,53,11.81,kg,12.34,0.53,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Warm Chocolate Brownies,53,56.39,pieces,58.98,2.59,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Dinner,Vanilla Panna Cotta Cups,53,50.6,pieces,53.46,2.86,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Steamed Basmati Rice,43,7.58,kg,8.14,0.56,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Butter Chicken Gravy,43,9.98,kg,10.74,0.76,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Paneer Tikka Masala,43,8.55,kg,9.15,0.6,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Dal Makhani,43,7.31,kg,7.71,0.4,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Fresh Orange & Fruit Juice,43,11.09,litres,11.95,0.86,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Brewed Roast Coffee,43,8.03,litres,8.52,0.49,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Mediterranean Garden Salad,43,4.65,kg,4.9,0.25,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Grilled Chicken Breast Cutlets,43,8.75,kg,9.2,0.45,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Warm Chocolate Brownies,43,49.29,pieces,51.76,2.47,0.55,0,0,Autumn
+Highland View Heritage Inn,2026-10-26,Lunch,Vanilla Panna Cotta Cups,43,44.07,pieces,46.61,2.54,0.55,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Breakfast,Fresh Orange & Fruit Juice,163,39.84,litres,42.39,2.55,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Breakfast,Brewed Roast Coffee,163,31.02,litres,32.27,1.25,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Breakfast,Whole Fresh Milk,163,22.99,litres,24.49,1.5,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Breakfast,Plain Greek Yogurt,163,18.04,kg,18.79,0.75,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Breakfast,Fresh Butter Croissants,163,217.53,pieces,226.67,9.14,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Breakfast,Artisan Dinner Rolls,163,218.0,pieces,232.79,14.79,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Breakfast,Fresh Scrambled Eggs,163,21.79,kg,22.78,0.99,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Breakfast,Crispy Hash Browns,163,303.58,pieces,321.77,18.19,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Steamed Basmati Rice,130,22.86,kg,24.6,1.74,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Butter Chicken Gravy,130,26.75,kg,28.39,1.64,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Paneer Tikka Masala,130,24.47,kg,25.52,1.05,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Dal Makhani,130,19.21,kg,20.1,0.89,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Fresh Orange & Fruit Juice,130,33.01,litres,34.88,1.87,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Brewed Roast Coffee,130,27.6,litres,29.46,1.86,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Mediterranean Garden Salad,130,14.85,kg,15.72,0.87,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Grilled Chicken Breast Cutlets,130,26.77,kg,28.49,1.72,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Warm Chocolate Brownies,130,151.25,pieces,158.26,7.01,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Dinner,Vanilla Panna Cotta Cups,130,135.18,pieces,143.46,8.28,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Steamed Basmati Rice,106,20.15,kg,21.06,0.91,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Butter Chicken Gravy,106,24.72,kg,25.95,1.23,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Paneer Tikka Masala,106,21.94,kg,22.85,0.91,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Dal Makhani,106,17.71,kg,18.51,0.8,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Fresh Orange & Fruit Juice,106,24.78,litres,26.1,1.32,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Brewed Roast Coffee,106,19.66,litres,20.65,0.99,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Mediterranean Garden Salad,106,11.09,kg,11.84,0.75,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Grilled Chicken Breast Cutlets,106,23.42,kg,24.68,1.26,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Warm Chocolate Brownies,106,122.07,pieces,128.08,6.01,0.65,0,0,Autumn
+Royal Palm Resort & Spa,2026-10-26,Lunch,Vanilla Panna Cotta Cups,106,111.57,pieces,118.07,6.5,0.65,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Breakfast,Fresh Orange & Fruit Juice,150,37.22,litres,39.58,2.36,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Breakfast,Brewed Roast Coffee,150,31.9,litres,34.19,2.29,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Breakfast,Whole Fresh Milk,150,21.67,litres,23.21,1.54,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Breakfast,Plain Greek Yogurt,150,19.16,kg,20.41,1.25,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Breakfast,Fresh Butter Croissants,150,225.02,pieces,237.27,12.25,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Breakfast,Artisan Dinner Rolls,150,179.7,pieces,189.55,9.85,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Breakfast,Fresh Scrambled Eggs,150,20.91,kg,22.46,1.55,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Breakfast,Crispy Hash Browns,150,265.38,pieces,285.88,20.5,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Steamed Basmati Rice,120,20.99,kg,22.62,1.63,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Butter Chicken Gravy,120,26.72,kg,28.21,1.49,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Paneer Tikka Masala,120,25.32,kg,26.52,1.2,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Dal Makhani,120,20.29,kg,21.3,1.01,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Fresh Orange & Fruit Juice,120,29.78,litres,32.14,2.36,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Brewed Roast Coffee,120,22.6,litres,23.84,1.24,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Mediterranean Garden Salad,120,13.66,kg,14.75,1.09,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Grilled Chicken Breast Cutlets,120,24.26,kg,25.6,1.34,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Warm Chocolate Brownies,120,141.15,pieces,148.41,7.26,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Dinner,Vanilla Panna Cotta Cups,120,129.56,pieces,139.68,10.12,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Steamed Basmati Rice,97,17.72,kg,18.79,1.07,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Butter Chicken Gravy,97,22.92,kg,23.9,0.98,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Paneer Tikka Masala,97,18.5,kg,19.45,0.95,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Dal Makhani,97,14.47,kg,15.25,0.78,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Fresh Orange & Fruit Juice,97,23.75,litres,25.21,1.46,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Brewed Roast Coffee,97,20.67,litres,21.97,1.3,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Mediterranean Garden Salad,97,11.4,kg,12.28,0.88,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Grilled Chicken Breast Cutlets,97,21.73,kg,22.87,1.14,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Warm Chocolate Brownies,97,99.66,pieces,105.01,5.35,0.58,0,0,Autumn
+Sapphire Suites & Convention,2026-10-26,Lunch,Vanilla Panna Cotta Cups,97,101.04,pieces,107.49,6.45,0.58,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Breakfast,Fresh Orange & Fruit Juice,180,42.92,litres,45.27,2.35,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Breakfast,Brewed Roast Coffee,180,36.29,litres,37.86,1.57,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Breakfast,Whole Fresh Milk,180,27.38,litres,28.82,1.44,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Breakfast,Plain Greek Yogurt,180,22.46,kg,23.98,1.52,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Breakfast,Fresh Butter Croissants,180,250.81,pieces,267.9,17.09,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Breakfast,Artisan Dinner Rolls,180,210.39,pieces,223.48,13.09,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Breakfast,Fresh Scrambled Eggs,180,23.36,kg,24.34,0.98,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Breakfast,Crispy Hash Browns,180,349.53,pieces,368.26,18.73,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Steamed Basmati Rice,144,24.52,kg,25.55,1.03,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Butter Chicken Gravy,144,31.94,kg,34.0,2.06,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Paneer Tikka Masala,144,28.97,kg,30.85,1.88,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Dal Makhani,144,24.29,kg,25.48,1.19,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Fresh Orange & Fruit Juice,144,36.94,litres,38.65,1.71,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Brewed Roast Coffee,144,27.66,litres,29.07,1.41,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Mediterranean Garden Salad,144,15.81,kg,16.62,0.81,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Grilled Chicken Breast Cutlets,144,28.84,kg,30.15,1.31,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Warm Chocolate Brownies,144,164.72,pieces,174.77,10.05,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Dinner,Vanilla Panna Cotta Cups,144,135.01,pieces,142.69,7.68,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Steamed Basmati Rice,117,20.17,kg,21.41,1.24,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Butter Chicken Gravy,117,27.01,kg,28.74,1.73,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Paneer Tikka Masala,117,22.34,kg,23.72,1.38,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Dal Makhani,117,18.35,kg,19.78,1.43,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Fresh Orange & Fruit Juice,117,29.29,litres,31.14,1.85,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Brewed Roast Coffee,117,24.89,litres,26.69,1.8,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Mediterranean Garden Salad,117,12.41,kg,13.38,0.97,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Grilled Chicken Breast Cutlets,117,23.83,kg,24.83,1.0,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Warm Chocolate Brownies,117,120.38,pieces,127.67,7.29,0.6,0,0,Autumn
+The Grand Horizon Palace,2026-10-26,Lunch,Vanilla Panna Cotta Cups,117,110.79,pieces,118.56,7.77,0.6,0,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Breakfast,Fresh Orange & Fruit Juice,134,32.25,litres,34.42,2.17,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Breakfast,Brewed Roast Coffee,134,27.73,litres,29.9,2.17,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Breakfast,Whole Fresh Milk,134,20.62,litres,21.92,1.3,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Breakfast,Plain Greek Yogurt,134,15.54,kg,16.52,0.98,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Breakfast,Fresh Butter Croissants,134,201.5,pieces,212.58,11.08,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Breakfast,Artisan Dinner Rolls,134,160.13,pieces,166.55,6.42,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Breakfast,Fresh Scrambled Eggs,134,18.73,kg,19.76,1.03,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Breakfast,Crispy Hash Browns,134,254.63,pieces,266.42,11.79,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Steamed Basmati Rice,107,20.36,kg,21.23,0.87,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Butter Chicken Gravy,107,24.43,kg,25.44,1.01,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Paneer Tikka Masala,107,19.82,kg,21.32,1.5,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Dal Makhani,107,16.91,kg,18.04,1.13,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Fresh Orange & Fruit Juice,107,26.13,litres,27.18,1.05,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Brewed Roast Coffee,107,22.3,litres,23.67,1.37,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Mediterranean Garden Salad,107,12.55,kg,13.31,0.76,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Grilled Chicken Breast Cutlets,107,21.55,kg,22.54,0.99,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Warm Chocolate Brownies,107,125.29,pieces,130.74,5.45,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Dinner,Vanilla Panna Cotta Cups,107,105.16,pieces,110.29,5.13,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Steamed Basmati Rice,87,15.23,kg,15.97,0.74,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Butter Chicken Gravy,87,19.55,kg,20.98,1.43,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Paneer Tikka Masala,87,16.21,kg,17.0,0.79,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Dal Makhani,87,13.65,kg,14.34,0.69,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Fresh Orange & Fruit Juice,87,23.14,litres,24.24,1.1,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Brewed Roast Coffee,87,16.3,litres,17.3,1.0,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Mediterranean Garden Salad,87,9.09,kg,9.48,0.39,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Grilled Chicken Breast Cutlets,87,17.35,kg,18.7,1.35,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Warm Chocolate Brownies,87,98.8,pieces,103.34,4.54,0.75,1,0,Autumn
+Azure Bay Business Hotel,2026-10-25,Lunch,Vanilla Panna Cotta Cups,87,91.03,pieces,95.79,4.76,0.75,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Breakfast,Fresh Orange & Fruit Juice,91,22.26,litres,23.18,0.92,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Breakfast,Brewed Roast Coffee,91,17.42,litres,18.64,1.22,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Breakfast,Whole Fresh Milk,91,12.7,litres,13.21,0.51,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Breakfast,Plain Greek Yogurt,91,10.73,kg,11.57,0.84,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Breakfast,Fresh Butter Croissants,91,129.89,pieces,140.12,10.23,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Breakfast,Artisan Dinner Rolls,91,118.72,pieces,123.53,4.81,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Breakfast,Fresh Scrambled Eggs,91,13.13,kg,13.96,0.83,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Breakfast,Crispy Hash Browns,91,150.77,pieces,158.9,8.13,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Steamed Basmati Rice,73,13.28,kg,13.89,0.61,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Butter Chicken Gravy,73,15.7,kg,16.37,0.67,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Paneer Tikka Masala,73,13.57,kg,14.64,1.07,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Dal Makhani,73,11.81,kg,12.56,0.75,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Fresh Orange & Fruit Juice,73,18.67,litres,19.71,1.04,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Brewed Roast Coffee,73,14.43,litres,15.53,1.1,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Mediterranean Garden Salad,73,8.45,kg,8.81,0.36,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Grilled Chicken Breast Cutlets,73,15.44,kg,16.5,1.06,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Warm Chocolate Brownies,73,80.01,pieces,83.35,3.34,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Dinner,Vanilla Panna Cotta Cups,73,75.28,pieces,79.02,3.74,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Steamed Basmati Rice,59,11.36,kg,12.21,0.85,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Butter Chicken Gravy,59,12.83,kg,13.6,0.77,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Paneer Tikka Masala,59,12.18,kg,13.04,0.86,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Dal Makhani,59,8.78,kg,9.32,0.54,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Fresh Orange & Fruit Juice,59,15.05,litres,16.2,1.15,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Brewed Roast Coffee,59,12.66,litres,13.67,1.01,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Mediterranean Garden Salad,59,6.32,kg,6.73,0.41,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Grilled Chicken Breast Cutlets,59,13.17,kg,14.2,1.03,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Warm Chocolate Brownies,59,63.44,pieces,67.91,4.47,0.76,1,0,Autumn
+Highland View Heritage Inn,2026-10-25,Lunch,Vanilla Panna Cotta Cups,59,56.58,pieces,59.69,3.11,0.76,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Breakfast,Fresh Orange & Fruit Juice,195,52.19,litres,54.48,2.29,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Breakfast,Brewed Roast Coffee,195,42.03,litres,43.74,1.71,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Breakfast,Whole Fresh Milk,195,28.45,litres,29.92,1.47,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Breakfast,Plain Greek Yogurt,195,25.06,kg,26.75,1.69,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Breakfast,Fresh Butter Croissants,195,253.52,pieces,270.79,17.27,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Breakfast,Artisan Dinner Rolls,195,230.81,pieces,240.26,9.45,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Breakfast,Fresh Scrambled Eggs,195,28.25,kg,29.8,1.55,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Breakfast,Crispy Hash Browns,195,336.05,pieces,360.48,24.43,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Steamed Basmati Rice,156,29.07,kg,30.45,1.38,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Butter Chicken Gravy,156,36.4,kg,39.26,2.86,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Paneer Tikka Masala,156,31.97,kg,34.13,2.16,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Dal Makhani,156,24.0,kg,25.57,1.57,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Fresh Orange & Fruit Juice,156,39.73,litres,41.37,1.64,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Brewed Roast Coffee,156,30.11,litres,32.47,2.36,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Mediterranean Garden Salad,156,17.14,kg,18.35,1.21,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Grilled Chicken Breast Cutlets,156,33.83,kg,36.33,2.5,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Warm Chocolate Brownies,156,170.6,pieces,181.18,10.58,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Dinner,Vanilla Panna Cotta Cups,156,166.75,pieces,178.14,11.39,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Steamed Basmati Rice,127,24.44,kg,26.1,1.66,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Butter Chicken Gravy,127,26.08,kg,27.31,1.23,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Paneer Tikka Masala,127,23.37,kg,24.38,1.01,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Dal Makhani,127,19.13,kg,20.23,1.1,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Fresh Orange & Fruit Juice,127,30.8,litres,33.01,2.21,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Brewed Roast Coffee,127,25.67,litres,27.59,1.92,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Mediterranean Garden Salad,127,12.99,kg,13.59,0.6,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Grilled Chicken Breast Cutlets,127,26.32,kg,28.23,1.91,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Warm Chocolate Brownies,127,149.06,pieces,155.49,6.43,0.78,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-25,Lunch,Vanilla Panna Cotta Cups,127,119.1,pieces,124.89,5.79,0.78,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Breakfast,Fresh Orange & Fruit Juice,183,48.88,litres,51.39,2.51,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Breakfast,Brewed Roast Coffee,183,37.64,litres,40.59,2.95,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Breakfast,Whole Fresh Milk,183,29.31,litres,31.02,1.71,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Breakfast,Plain Greek Yogurt,183,22.85,kg,24.67,1.82,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Breakfast,Fresh Butter Croissants,183,258.52,pieces,279.02,20.5,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Breakfast,Artisan Dinner Rolls,183,226.96,pieces,243.82,16.86,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Breakfast,Fresh Scrambled Eggs,183,27.1,kg,28.28,1.18,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Breakfast,Crispy Hash Browns,183,334.32,pieces,355.63,21.31,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Steamed Basmati Rice,146,25.63,kg,26.82,1.19,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Butter Chicken Gravy,146,33.22,kg,35.28,2.06,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Paneer Tikka Masala,146,27.71,kg,29.3,1.59,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Dal Makhani,146,25.07,kg,26.17,1.1,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Fresh Orange & Fruit Juice,146,38.22,litres,40.86,2.64,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Brewed Roast Coffee,146,27.66,litres,29.16,1.5,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Mediterranean Garden Salad,146,17.11,kg,18.33,1.22,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Grilled Chicken Breast Cutlets,146,30.77,kg,33.12,2.35,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Warm Chocolate Brownies,146,166.32,pieces,177.54,11.22,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Dinner,Vanilla Panna Cotta Cups,146,147.53,pieces,155.99,8.46,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Steamed Basmati Rice,119,21.16,kg,22.15,0.99,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Butter Chicken Gravy,119,24.28,kg,26.18,1.9,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Paneer Tikka Masala,119,22.81,kg,24.33,1.52,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Dal Makhani,119,20.2,kg,21.65,1.45,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Fresh Orange & Fruit Juice,119,31.58,litres,33.02,1.44,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Brewed Roast Coffee,119,23.31,litres,24.73,1.42,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Mediterranean Garden Salad,119,12.21,kg,12.92,0.71,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Grilled Chicken Breast Cutlets,119,24.84,kg,25.86,1.02,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Warm Chocolate Brownies,119,132.91,pieces,138.23,5.32,0.71,1,0,Autumn
+Sapphire Suites & Convention,2026-10-25,Lunch,Vanilla Panna Cotta Cups,119,117.95,pieces,123.1,5.15,0.71,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Breakfast,Fresh Orange & Fruit Juice,222,55.71,litres,59.9,4.19,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Breakfast,Brewed Roast Coffee,222,42.57,litres,45.76,3.19,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Breakfast,Whole Fresh Milk,222,31.44,litres,33.36,1.92,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Breakfast,Plain Greek Yogurt,222,26.24,kg,27.58,1.34,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Breakfast,Fresh Butter Croissants,222,313.07,pieces,326.08,13.01,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Breakfast,Artisan Dinner Rolls,222,274.36,pieces,287.46,13.1,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Breakfast,Fresh Scrambled Eggs,222,31.32,kg,33.81,2.49,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Breakfast,Crispy Hash Browns,222,431.34,pieces,463.97,32.63,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Steamed Basmati Rice,178,31.28,kg,32.99,1.71,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Butter Chicken Gravy,178,38.52,kg,40.38,1.86,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Paneer Tikka Masala,178,33.79,kg,36.26,2.47,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Dal Makhani,178,28.91,kg,30.69,1.78,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Fresh Orange & Fruit Juice,178,43.31,litres,46.37,3.06,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Brewed Roast Coffee,178,33.36,litres,35.35,1.99,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Mediterranean Garden Salad,178,20.21,kg,21.61,1.4,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Grilled Chicken Breast Cutlets,178,38.37,kg,40.83,2.46,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Warm Chocolate Brownies,178,208.0,pieces,217.15,9.15,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Dinner,Vanilla Panna Cotta Cups,178,166.13,pieces,173.44,7.31,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Steamed Basmati Rice,144,27.71,kg,29.38,1.67,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Butter Chicken Gravy,144,31.92,kg,34.43,2.51,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Paneer Tikka Masala,144,27.96,kg,29.33,1.37,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Dal Makhani,144,24.59,kg,26.36,1.77,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Fresh Orange & Fruit Juice,144,36.75,litres,39.47,2.72,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Brewed Roast Coffee,144,28.37,litres,29.66,1.29,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Mediterranean Garden Salad,144,14.69,kg,15.47,0.78,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Grilled Chicken Breast Cutlets,144,29.98,kg,31.71,1.73,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Warm Chocolate Brownies,144,152.74,pieces,159.16,6.42,0.74,1,0,Autumn
+The Grand Horizon Palace,2026-10-25,Lunch,Vanilla Panna Cotta Cups,144,140.78,pieces,149.9,9.12,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-24,Breakfast,Fresh Orange & Fruit Juice,164,40.13,litres,43.07,2.94,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Breakfast,Brewed Roast Coffee,164,33.9,litres,35.28,1.38,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Breakfast,Whole Fresh Milk,164,25.52,litres,26.61,1.09,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Breakfast,Plain Greek Yogurt,164,19.36,kg,20.85,1.49,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Breakfast,Fresh Butter Croissants,164,244.24,pieces,258.02,13.78,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Breakfast,Artisan Dinner Rolls,164,219.78,pieces,232.61,12.83,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Breakfast,Fresh Scrambled Eggs,164,21.9,kg,22.9,1.0,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Breakfast,Crispy Hash Browns,164,311.62,pieces,329.94,18.32,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Steamed Basmati Rice,131,24.69,kg,26.05,1.36,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Butter Chicken Gravy,131,28.73,kg,29.95,1.22,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Paneer Tikka Masala,131,25.58,kg,27.18,1.6,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Dal Makhani,131,21.62,kg,23.31,1.69,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Fresh Orange & Fruit Juice,131,30.61,litres,32.54,1.93,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Brewed Roast Coffee,131,28.19,litres,30.01,1.82,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Mediterranean Garden Salad,131,15.2,kg,16.35,1.15,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Grilled Chicken Breast Cutlets,131,25.79,kg,27.66,1.87,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Warm Chocolate Brownies,131,134.56,pieces,140.94,6.38,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Dinner,Vanilla Panna Cotta Cups,131,122.22,pieces,131.41,9.19,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Steamed Basmati Rice,106,18.1,kg,18.94,0.84,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Butter Chicken Gravy,106,23.54,kg,24.79,1.25,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Paneer Tikka Masala,106,21.95,kg,23.52,1.57,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Dal Makhani,106,15.62,kg,16.3,0.68,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Fresh Orange & Fruit Juice,106,26.59,litres,28.66,2.07,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Brewed Roast Coffee,106,22.27,litres,23.32,1.05,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Mediterranean Garden Salad,106,12.01,kg,12.83,0.82,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Grilled Chicken Breast Cutlets,106,21.34,kg,22.31,0.97,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Warm Chocolate Brownies,106,115.1,pieces,121.5,6.4,0.91,1,1,Autumn
+Azure Bay Business Hotel,2026-10-24,Lunch,Vanilla Panna Cotta Cups,106,113.36,pieces,122.09,8.73,0.91,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Breakfast,Fresh Orange & Fruit Juice,106,26.83,litres,28.8,1.97,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Breakfast,Brewed Roast Coffee,106,20.14,litres,20.96,0.82,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Breakfast,Whole Fresh Milk,106,17.12,litres,18.18,1.06,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Breakfast,Plain Greek Yogurt,106,11.71,kg,12.62,0.91,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Breakfast,Fresh Butter Croissants,106,157.83,pieces,166.47,8.64,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Breakfast,Artisan Dinner Rolls,106,124.85,pieces,130.21,5.36,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Breakfast,Fresh Scrambled Eggs,106,14.75,kg,15.54,0.79,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Breakfast,Crispy Hash Browns,106,185.13,pieces,199.62,14.49,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Steamed Basmati Rice,85,14.89,kg,15.84,0.95,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Butter Chicken Gravy,85,18.55,kg,19.89,1.34,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Paneer Tikka Masala,85,18.04,kg,19.42,1.38,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Dal Makhani,85,13.09,kg,14.0,0.91,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Fresh Orange & Fruit Juice,85,20.46,litres,21.39,0.93,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Brewed Roast Coffee,85,17.88,litres,18.84,0.96,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Mediterranean Garden Salad,85,9.04,kg,9.58,0.54,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Grilled Chicken Breast Cutlets,85,18.81,kg,19.8,0.99,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Warm Chocolate Brownies,85,97.68,pieces,102.08,4.4,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Dinner,Vanilla Panna Cotta Cups,85,89.69,pieces,93.79,4.1,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Steamed Basmati Rice,69,12.34,kg,13.06,0.72,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Butter Chicken Gravy,69,15.68,kg,16.73,1.05,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Paneer Tikka Masala,69,13.0,kg,13.67,0.67,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Dal Makhani,69,11.22,kg,12.02,0.8,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Fresh Orange & Fruit Juice,69,16.14,litres,17.22,1.08,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Brewed Roast Coffee,69,14.54,litres,15.44,0.9,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Mediterranean Garden Salad,69,7.32,kg,7.79,0.47,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Grilled Chicken Breast Cutlets,69,14.7,kg,15.84,1.14,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Warm Chocolate Brownies,69,75.12,pieces,78.66,3.54,0.89,1,1,Autumn
+Highland View Heritage Inn,2026-10-24,Lunch,Vanilla Panna Cotta Cups,69,65.04,pieces,70.09,5.05,0.89,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Breakfast,Fresh Orange & Fruit Juice,229,55.41,litres,57.82,2.41,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Breakfast,Brewed Roast Coffee,229,42.8,litres,45.95,3.15,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Breakfast,Whole Fresh Milk,229,37.06,litres,38.88,1.82,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Breakfast,Plain Greek Yogurt,229,26.52,kg,28.44,1.92,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Breakfast,Fresh Butter Croissants,229,322.74,pieces,336.95,14.21,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Breakfast,Artisan Dinner Rolls,229,291.48,pieces,313.89,22.41,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Breakfast,Fresh Scrambled Eggs,229,32.53,kg,34.84,2.31,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Breakfast,Crispy Hash Browns,229,410.18,pieces,435.16,24.98,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Steamed Basmati Rice,183,33.9,kg,36.12,2.22,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Butter Chicken Gravy,183,42.07,kg,43.88,1.81,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Paneer Tikka Masala,183,33.85,kg,36.29,2.44,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Dal Makhani,183,28.95,kg,30.53,1.58,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Fresh Orange & Fruit Juice,183,48.27,litres,51.3,3.03,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Brewed Roast Coffee,183,38.92,litres,40.51,1.59,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Mediterranean Garden Salad,183,20.44,kg,21.36,0.92,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Grilled Chicken Breast Cutlets,183,41.16,kg,43.02,1.86,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Warm Chocolate Brownies,183,213.58,pieces,228.65,15.07,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Dinner,Vanilla Panna Cotta Cups,183,178.86,pieces,192.09,13.23,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Steamed Basmati Rice,149,24.74,kg,26.49,1.75,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Butter Chicken Gravy,149,34.14,kg,36.09,1.95,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Paneer Tikka Masala,149,30.03,kg,31.58,1.55,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Dal Makhani,149,22.47,kg,23.85,1.38,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Fresh Orange & Fruit Juice,149,37.65,litres,40.09,2.44,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Brewed Roast Coffee,149,28.18,litres,29.99,1.81,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Mediterranean Garden Salad,149,17.14,kg,18.19,1.05,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Grilled Chicken Breast Cutlets,149,31.49,kg,33.45,1.96,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Warm Chocolate Brownies,149,164.43,pieces,175.19,10.76,0.92,1,1,Autumn
+Royal Palm Resort & Spa,2026-10-24,Lunch,Vanilla Panna Cotta Cups,149,139.9,pieces,148.46,8.56,0.92,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Breakfast,Fresh Orange & Fruit Juice,233,55.71,litres,59.76,4.05,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Breakfast,Brewed Roast Coffee,233,48.79,litres,50.85,2.06,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Breakfast,Whole Fresh Milk,233,35.34,litres,37.04,1.7,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Breakfast,Plain Greek Yogurt,233,25.87,kg,26.98,1.11,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Breakfast,Fresh Butter Croissants,233,322.56,pieces,339.51,16.95,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Breakfast,Artisan Dinner Rolls,233,268.64,pieces,289.67,21.03,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Breakfast,Fresh Scrambled Eggs,233,31.35,kg,33.48,2.13,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Breakfast,Crispy Hash Browns,233,452.15,pieces,471.8,19.65,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Steamed Basmati Rice,187,35.24,kg,37.38,2.14,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Butter Chicken Gravy,187,38.78,kg,41.07,2.29,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Paneer Tikka Masala,187,39.22,kg,42.06,2.84,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Dal Makhani,187,27.92,kg,30.04,2.12,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Fresh Orange & Fruit Juice,187,48.44,litres,50.51,2.07,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Brewed Roast Coffee,187,35.95,litres,37.45,1.5,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Mediterranean Garden Salad,187,20.08,kg,21.33,1.25,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Grilled Chicken Breast Cutlets,187,39.97,kg,41.92,1.95,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Warm Chocolate Brownies,187,195.27,pieces,206.74,11.47,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Dinner,Vanilla Panna Cotta Cups,187,180.92,pieces,195.18,14.26,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Steamed Basmati Rice,151,27.2,kg,29.14,1.94,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Butter Chicken Gravy,151,33.55,kg,35.33,1.78,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Paneer Tikka Masala,151,29.2,kg,31.31,2.11,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Dal Makhani,151,22.77,kg,24.2,1.43,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Fresh Orange & Fruit Juice,151,37.56,litres,39.95,2.39,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Brewed Roast Coffee,151,30.55,litres,32.83,2.28,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Mediterranean Garden Salad,151,16.38,kg,17.12,0.74,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Grilled Chicken Breast Cutlets,151,30.48,kg,32.87,2.39,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Warm Chocolate Brownies,151,173.17,pieces,182.96,9.79,0.9,1,1,Autumn
+Sapphire Suites & Convention,2026-10-24,Lunch,Vanilla Panna Cotta Cups,151,156.62,pieces,168.89,12.27,0.9,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Breakfast,Fresh Orange & Fruit Juice,275,68.84,litres,73.33,4.49,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Breakfast,Brewed Roast Coffee,275,56.51,litres,60.03,3.52,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Breakfast,Whole Fresh Milk,275,43.24,litres,45.8,2.56,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Breakfast,Plain Greek Yogurt,275,32.4,kg,33.71,1.31,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Breakfast,Fresh Butter Croissants,275,359.35,pieces,377.97,18.62,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Breakfast,Artisan Dinner Rolls,275,336.75,pieces,360.95,24.2,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Breakfast,Fresh Scrambled Eggs,275,37.2,kg,40.05,2.85,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Breakfast,Crispy Hash Browns,275,474.03,pieces,503.48,29.45,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Steamed Basmati Rice,220,36.54,kg,39.22,2.68,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Butter Chicken Gravy,220,47.66,kg,49.91,2.25,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Paneer Tikka Masala,220,43.09,kg,46.22,3.13,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Dal Makhani,220,37.7,kg,40.64,2.94,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Fresh Orange & Fruit Juice,220,55.78,litres,58.99,3.21,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Brewed Roast Coffee,220,41.0,litres,42.67,1.67,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Mediterranean Garden Salad,220,24.93,kg,26.36,1.43,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Grilled Chicken Breast Cutlets,220,49.69,kg,53.01,3.32,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Warm Chocolate Brownies,220,238.98,pieces,249.42,10.44,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Dinner,Vanilla Panna Cotta Cups,220,202.86,pieces,216.23,13.37,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Steamed Basmati Rice,179,34.43,kg,36.7,2.27,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Butter Chicken Gravy,179,40.27,kg,42.02,1.75,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Paneer Tikka Masala,179,35.86,kg,37.36,1.5,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Dal Makhani,179,28.56,kg,30.18,1.62,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Fresh Orange & Fruit Juice,179,46.55,litres,50.01,3.46,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Brewed Roast Coffee,179,36.61,litres,38.36,1.75,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Mediterranean Garden Salad,179,19.09,kg,20.52,1.43,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Grilled Chicken Breast Cutlets,179,38.12,kg,40.91,2.79,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Warm Chocolate Brownies,179,206.04,pieces,214.57,8.53,0.92,1,1,Autumn
+The Grand Horizon Palace,2026-10-24,Lunch,Vanilla Panna Cotta Cups,179,170.37,pieces,182.45,12.08,0.92,1,1,Autumn
+Azure Bay Business Hotel,2026-10-23,Breakfast,Fresh Orange & Fruit Juice,132,31.66,litres,32.98,1.32,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Breakfast,Brewed Roast Coffee,132,25.68,litres,27.36,1.68,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Breakfast,Whole Fresh Milk,132,18.32,litres,19.5,1.18,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Breakfast,Plain Greek Yogurt,132,16.58,kg,17.4,0.82,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Breakfast,Fresh Butter Croissants,132,191.28,pieces,202.78,11.5,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Breakfast,Artisan Dinner Rolls,132,155.62,pieces,165.73,10.11,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Breakfast,Fresh Scrambled Eggs,132,17.68,kg,18.99,1.31,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Breakfast,Crispy Hash Browns,132,252.09,pieces,262.29,10.2,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Steamed Basmati Rice,106,19.19,kg,20.24,1.05,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Butter Chicken Gravy,106,21.7,kg,23.09,1.39,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Paneer Tikka Masala,106,20.24,kg,21.62,1.38,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Dal Makhani,106,17.1,kg,17.79,0.69,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Fresh Orange & Fruit Juice,106,27.29,litres,29.21,1.92,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Brewed Roast Coffee,106,22.22,litres,23.7,1.48,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Mediterranean Garden Salad,106,11.18,kg,11.89,0.71,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Grilled Chicken Breast Cutlets,106,21.0,kg,22.22,1.22,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Warm Chocolate Brownies,106,116.64,pieces,124.39,7.75,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Dinner,Vanilla Panna Cotta Cups,106,112.35,pieces,120.15,7.8,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Steamed Basmati Rice,86,16.37,kg,17.59,1.22,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Butter Chicken Gravy,86,19.79,kg,21.17,1.38,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Paneer Tikka Masala,86,17.24,kg,18.42,1.18,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Dal Makhani,86,13.53,kg,14.33,0.8,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Fresh Orange & Fruit Juice,86,20.77,litres,22.35,1.58,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Brewed Roast Coffee,86,18.14,litres,19.12,0.98,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Mediterranean Garden Salad,86,8.96,kg,9.41,0.45,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Grilled Chicken Breast Cutlets,86,19.26,kg,20.77,1.51,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Warm Chocolate Brownies,86,90.99,pieces,96.19,5.2,0.74,1,0,Autumn
+Azure Bay Business Hotel,2026-10-23,Lunch,Vanilla Panna Cotta Cups,86,90.48,pieces,94.86,4.38,0.74,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Breakfast,Fresh Orange & Fruit Juice,96,24.52,litres,25.86,1.34,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Breakfast,Brewed Roast Coffee,96,18.48,litres,19.6,1.12,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Breakfast,Whole Fresh Milk,96,13.96,litres,14.59,0.63,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Breakfast,Plain Greek Yogurt,96,11.63,kg,12.44,0.81,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Breakfast,Fresh Butter Croissants,96,134.47,pieces,144.57,10.1,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Breakfast,Artisan Dinner Rolls,96,117.35,pieces,125.58,8.23,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Breakfast,Fresh Scrambled Eggs,96,14.41,kg,15.01,0.6,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Breakfast,Crispy Hash Browns,96,177.66,pieces,187.82,10.16,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Steamed Basmati Rice,77,13.72,kg,14.69,0.97,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Butter Chicken Gravy,77,17.66,kg,18.54,0.88,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Paneer Tikka Masala,77,14.89,kg,15.87,0.98,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Dal Makhani,77,12.8,kg,13.56,0.76,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Fresh Orange & Fruit Juice,77,17.8,litres,19.13,1.33,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Brewed Roast Coffee,77,15.54,litres,16.4,0.86,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Mediterranean Garden Salad,77,8.02,kg,8.36,0.34,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Grilled Chicken Breast Cutlets,77,16.1,kg,17.2,1.1,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Warm Chocolate Brownies,77,86.8,pieces,90.48,3.68,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Dinner,Vanilla Panna Cotta Cups,77,81.27,pieces,86.49,5.22,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Steamed Basmati Rice,62,10.81,kg,11.4,0.59,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Butter Chicken Gravy,62,13.97,kg,14.72,0.75,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Paneer Tikka Masala,62,11.7,kg,12.26,0.56,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Dal Makhani,62,10.52,kg,10.99,0.47,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Fresh Orange & Fruit Juice,62,16.6,litres,17.37,0.77,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Brewed Roast Coffee,62,12.82,litres,13.56,0.74,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Mediterranean Garden Salad,62,7.11,kg,7.57,0.46,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Grilled Chicken Breast Cutlets,62,13.51,kg,14.58,1.07,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Warm Chocolate Brownies,62,70.19,pieces,74.74,4.55,0.81,1,0,Autumn
+Highland View Heritage Inn,2026-10-23,Lunch,Vanilla Panna Cotta Cups,62,65.13,pieces,67.96,2.83,0.81,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Breakfast,Fresh Orange & Fruit Juice,198,51.04,litres,54.05,3.01,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Breakfast,Brewed Roast Coffee,198,38.97,litres,41.72,2.75,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Breakfast,Whole Fresh Milk,198,30.24,litres,31.92,1.68,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Breakfast,Plain Greek Yogurt,198,22.25,kg,23.3,1.05,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Breakfast,Fresh Butter Croissants,198,286.48,pieces,299.08,12.6,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Breakfast,Artisan Dinner Rolls,198,242.45,pieces,261.58,19.13,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Breakfast,Fresh Scrambled Eggs,198,27.73,kg,29.9,2.17,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Breakfast,Crispy Hash Browns,198,358.31,pieces,380.05,21.74,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Steamed Basmati Rice,159,30.88,kg,32.62,1.74,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Butter Chicken Gravy,159,33.65,kg,35.22,1.57,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Paneer Tikka Masala,159,33.39,kg,34.83,1.44,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Dal Makhani,159,26.38,kg,28.41,2.03,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Fresh Orange & Fruit Juice,159,36.91,litres,39.17,2.26,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Brewed Roast Coffee,159,30.42,litres,32.56,2.14,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Mediterranean Garden Salad,159,17.43,kg,18.29,0.86,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Grilled Chicken Breast Cutlets,159,32.57,kg,34.64,2.07,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Warm Chocolate Brownies,159,171.71,pieces,183.75,12.04,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Dinner,Vanilla Panna Cotta Cups,159,147.5,pieces,156.67,9.17,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Lunch,Steamed Basmati Rice,129,22.8,kg,23.77,0.97,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Lunch,Butter Chicken Gravy,129,29.56,kg,31.9,2.34,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Lunch,Paneer Tikka Masala,129,23.8,kg,25.2,1.4,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Lunch,Dal Makhani,129,20.69,kg,21.85,1.16,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Lunch,Fresh Orange & Fruit Juice,129,33.34,litres,36.0,2.66,0.8,1,0,Autumn
+Royal Palm Resort & Spa,2026-10-23,Lunch,Brewed Roast Coffee,129,24.26,litres,26.08,1.82,0.8,1,0,Autumn

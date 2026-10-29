@@ -1,0 +1,51 @@
+hotel_name,record_date,meal_type,food_item_name,actual_guest_count,actual_quantity_consumed,unit
+The Grand Horizon Palace,2026-11-01,Lunch,Mediterranean Garden Salad,196,20.25,kg
+Royal Palm Resort & Spa,2026-11-01,Breakfast,Fresh Orange & Fruit Juice,194,46.33,litres
+Highland View Heritage Inn,2026-11-01,Lunch,Paneer Tikka Masala,97,19.55,kg
+Azure Bay Business Hotel,2026-11-01,Lunch,Whole Fresh Milk,140,22.54,litres
+Sapphire Suites & Convention,2026-11-01,Lunch,Whole Fresh Milk,167,26.19,litres
+The Grand Horizon Palace,2026-11-02,Dinner,Fresh Scrambled Eggs,152,22.51,kg
+Royal Palm Resort & Spa,2026-11-02,Dinner,Paneer Tikka Masala,143,28.27,kg
+Highland View Heritage Inn,2026-11-02,Lunch,Steamed Basmati Rice,68,11.99,kg
+Azure Bay Business Hotel,2026-11-02,Dinner,Paneer Tikka Masala,103,22.62,kg
+Sapphire Suites & Convention,2026-11-02,Dinner,Warm Chocolate Brownies,172,185.16,pieces
+The Grand Horizon Palace,2026-11-03,Breakfast,Brewed Roast Coffee,186,37.09,litres
+Royal Palm Resort & Spa,2026-11-03,Breakfast,Brewed Roast Coffee,124,22.45,litres
+Highland View Heritage Inn,2026-11-03,Lunch,Grilled Chicken Breast Cutlets,60,12.52,kg
+Azure Bay Business Hotel,2026-11-03,Breakfast,Fresh Orange & Fruit Juice,98,22.08,litres
+Sapphire Suites & Convention,2026-11-03,Lunch,Fresh Orange & Fruit Juice,151,35.64,litres
+The Grand Horizon Palace,2026-11-04,Breakfast,Whole Fresh Milk,171,26.16,litres
+Royal Palm Resort & Spa,2026-11-04,Breakfast,Crispy Hash Browns,164,296.6,pieces
+Highland View Heritage Inn,2026-11-04,Breakfast,Fresh Orange & Fruit Juice,74,19.57,litres
+Azure Bay Business Hotel,2026-11-04,Dinner,Fresh Orange & Fruit Juice,107,26.48,litres
+Sapphire Suites & Convention,2026-11-04,Breakfast,Dal Makhani,134,20.12,kg
+The Grand Horizon Palace,2026-11-05,Breakfast,Grilled Chicken Breast Cutlets,155,30.78,kg
+Royal Palm Resort & Spa,2026-11-05,Dinner,Fresh Scrambled Eggs,156,23.49,kg
+Highland View Heritage Inn,2026-11-05,Lunch,Dal Makhani,77,12.07,kg
+Azure Bay Business Hotel,2026-11-05,Dinner,Paneer Tikka Masala,104,18.77,kg
+Sapphire Suites & Convention,2026-11-05,Breakfast,Fresh Scrambled Eggs,137,18.95,kg
+The Grand Horizon Palace,2026-11-06,Lunch,Mediterranean Garden Salad,210,22.68,kg
+Royal Palm Resort & Spa,2026-11-06,Breakfast,Brewed Roast Coffee,200,44.12,litres
+Highland View Heritage Inn,2026-11-06,Dinner,Mediterranean Garden Salad,93,9.73,kg
+Azure Bay Business Hotel,2026-11-06,Dinner,Plain Greek Yogurt,135,15.69,kg
+Sapphire Suites & Convention,2026-11-06,Dinner,Fresh Scrambled Eggs,171,25.81,kg
+The Grand Horizon Palace,2026-11-07,Dinner,Plain Greek Yogurt,208,24.87,kg
+Royal Palm Resort & Spa,2026-11-07,Breakfast,Warm Chocolate Brownies,175,211.69,pieces
+Highland View Heritage Inn,2026-11-07,Breakfast,Artisan Dinner Rolls,96,131.09,pieces
+Azure Bay Business Hotel,2026-11-07,Lunch,Fresh Orange & Fruit Juice,146,34.91,litres
+Sapphire Suites & Convention,2026-11-07,Lunch,Grilled Chicken Breast Cutlets,213,48.39,kg
+The Grand Horizon Palace,2026-11-08,Breakfast,Artisan Dinner Rolls,208,272.8,pieces
+Royal Palm Resort & Spa,2026-11-08,Dinner,Warm Chocolate Brownies,163,174.66,pieces
+Highland View Heritage Inn,2026-11-08,Breakfast,Crispy Hash Browns,73,128.53,pieces
+Azure Bay Business Hotel,2026-11-08,Lunch,Whole Fresh Milk,144,22.61,litres
+Sapphire Suites & Convention,2026-11-08,Dinner,Fresh Butter Croissants,196,291.81,pieces
+The Grand Horizon Palace,2026-11-09,Dinner,Plain Greek Yogurt,169,22.1,kg
+Royal Palm Resort & Spa,2026-11-09,Dinner,Mediterranean Garden Salad,123,13.67,kg
+Highland View Heritage Inn,2026-11-09,Breakfast,Steamed Basmati Rice,70,13.97,kg
+Azure Bay Business Hotel,2026-11-09,Dinner,Brewed Roast Coffee,104,22.41,litres
+Sapphire Suites & Convention,2026-11-09,Breakfast,Fresh Butter Croissants,162,240.99,pieces
+The Grand Horizon Palace,2026-11-10,Lunch,Artisan Dinner Rolls,158,178.65,pieces
+Royal Palm Resort & Spa,2026-11-10,Breakfast,Artisan Dinner Rolls,126,142.86,pieces
+Highland View Heritage Inn,2026-11-10,Breakfast,Grilled Chicken Breast Cutlets,65,15.2,kg
+Azure Bay Business Hotel,2026-11-10,Dinner,Artisan Dinner Rolls,94,108.34,pieces
+Sapphire Suites & Convention,2026-11-10,Lunch,Mediterranean Garden Salad,163,17.18,kg

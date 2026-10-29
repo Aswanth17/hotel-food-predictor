@@ -1,0 +1,301 @@
+hotel_name,record_date,meal_type,food_item_name,actual_guest_count,actual_quantity_consumed,unit
+The Grand Horizon Palace,2026-12-01,Breakfast,Paneer Tikka Masala,161,32.38,kg
+The Grand Horizon Palace,2026-12-01,Lunch,Brewed Roast Coffee,199,39.17,litres
+The Grand Horizon Palace,2026-12-01,Dinner,Mediterranean Garden Salad,177,17.97,kg
+Royal Palm Resort & Spa,2026-12-01,Breakfast,Mediterranean Garden Salad,114,11.71,kg
+Royal Palm Resort & Spa,2026-12-01,Lunch,Whole Fresh Milk,187,26.08,litres
+Royal Palm Resort & Spa,2026-12-01,Dinner,Butter Chicken Gravy,149,33.46,kg
+Highland View Heritage Inn,2026-12-01,Breakfast,Paneer Tikka Masala,66,12.52,kg
+Highland View Heritage Inn,2026-12-01,Lunch,Whole Fresh Milk,68,9.75,litres
+Highland View Heritage Inn,2026-12-01,Dinner,Mediterranean Garden Salad,77,8.31,kg
+Azure Bay Business Hotel,2026-12-01,Breakfast,Steamed Basmati Rice,95,17.43,kg
+Azure Bay Business Hotel,2026-12-01,Lunch,Whole Fresh Milk,106,16.4,litres
+Azure Bay Business Hotel,2026-12-01,Dinner,Dal Makhani,112,18.29,kg
+Sapphire Suites & Convention,2026-12-01,Breakfast,Crispy Hash Browns,118,218.19,pieces
+Sapphire Suites & Convention,2026-12-01,Lunch,Fresh Butter Croissants,168,258.24,pieces
+Sapphire Suites & Convention,2026-12-01,Dinner,Brewed Roast Coffee,164,31.97,litres
+The Grand Horizon Palace,2026-12-02,Breakfast,Warm Chocolate Brownies,156,183.51,pieces
+The Grand Horizon Palace,2026-12-02,Lunch,Mediterranean Garden Salad,209,24.4,kg
+The Grand Horizon Palace,2026-12-02,Dinner,Grilled Chicken Breast Cutlets,181,39.05,kg
+Royal Palm Resort & Spa,2026-12-02,Breakfast,Fresh Scrambled Eggs,142,21.43,kg
+Royal Palm Resort & Spa,2026-12-02,Lunch,Crispy Hash Browns,152,278.04,pieces
+Royal Palm Resort & Spa,2026-12-02,Dinner,Artisan Dinner Rolls,130,156.97,pieces
+Highland View Heritage Inn,2026-12-02,Breakfast,Fresh Scrambled Eggs,58,7.51,kg
+Highland View Heritage Inn,2026-12-02,Lunch,Fresh Orange & Fruit Juice,83,20.03,litres
+Highland View Heritage Inn,2026-12-02,Dinner,Fresh Butter Croissants,70,106.74,pieces
+Azure Bay Business Hotel,2026-12-02,Breakfast,Steamed Basmati Rice,88,16.73,kg
+Azure Bay Business Hotel,2026-12-02,Lunch,Fresh Orange & Fruit Juice,119,29.36,litres
+Azure Bay Business Hotel,2026-12-02,Dinner,Fresh Scrambled Eggs,104,14.14,kg
+Sapphire Suites & Convention,2026-12-02,Breakfast,Steamed Basmati Rice,134,24.72,kg
+Sapphire Suites & Convention,2026-12-02,Lunch,Butter Chicken Gravy,157,32.85,kg
+Sapphire Suites & Convention,2026-12-02,Dinner,Fresh Orange & Fruit Juice,156,42.16,litres
+The Grand Horizon Palace,2026-12-03,Breakfast,Fresh Orange & Fruit Juice,144,32.84,litres
+The Grand Horizon Palace,2026-12-03,Lunch,Grilled Chicken Breast Cutlets,180,35.47,kg
+The Grand Horizon Palace,2026-12-03,Dinner,Brewed Roast Coffee,191,36.59,litres
+Royal Palm Resort & Spa,2026-12-03,Breakfast,Fresh Scrambled Eggs,120,18.34,kg
+Royal Palm Resort & Spa,2026-12-03,Lunch,Fresh Orange & Fruit Juice,176,42.85,litres
+Royal Palm Resort & Spa,2026-12-03,Dinner,Crispy Hash Browns,130,257.25,pieces
+Highland View Heritage Inn,2026-12-03,Breakfast,Plain Greek Yogurt,63,7.56,kg
+Highland View Heritage Inn,2026-12-03,Lunch,Brewed Roast Coffee,69,13.97,litres
+Highland View Heritage Inn,2026-12-03,Dinner,Plain Greek Yogurt,72,8.41,kg
+Azure Bay Business Hotel,2026-12-03,Breakfast,Plain Greek Yogurt,79,10.06,kg
+Azure Bay Business Hotel,2026-12-03,Lunch,Crispy Hash Browns,114,206.25,pieces
+Azure Bay Business Hotel,2026-12-03,Dinner,Fresh Butter Croissants,117,181.46,pieces
+Sapphire Suites & Convention,2026-12-03,Breakfast,Fresh Orange & Fruit Juice,126,31.86,litres
+Sapphire Suites & Convention,2026-12-03,Lunch,Grilled Chicken Breast Cutlets,177,36.93,kg
+Sapphire Suites & Convention,2026-12-03,Dinner,Fresh Scrambled Eggs,134,19.43,kg
+The Grand Horizon Palace,2026-12-04,Breakfast,Plain Greek Yogurt,226,29.59,kg
+The Grand Horizon Palace,2026-12-04,Lunch,Fresh Orange & Fruit Juice,238,55.5,litres
+The Grand Horizon Palace,2026-12-04,Dinner,Plain Greek Yogurt,239,28.94,kg
+Royal Palm Resort & Spa,2026-12-04,Breakfast,Brewed Roast Coffee,175,36.24,litres
+Royal Palm Resort & Spa,2026-12-04,Lunch,Dal Makhani,193,30.27,kg
+Royal Palm Resort & Spa,2026-12-04,Dinner,Butter Chicken Gravy,205,41.11,kg
+Highland View Heritage Inn,2026-12-04,Breakfast,Dal Makhani,86,14.15,kg
+Highland View Heritage Inn,2026-12-04,Lunch,Fresh Scrambled Eggs,109,14.57,kg
+Highland View Heritage Inn,2026-12-04,Dinner,Fresh Butter Croissants,92,122.17,pieces
+Azure Bay Business Hotel,2026-12-04,Breakfast,Butter Chicken Gravy,125,28.09,kg
+Azure Bay Business Hotel,2026-12-04,Lunch,Grilled Chicken Breast Cutlets,162,32.89,kg
+Azure Bay Business Hotel,2026-12-04,Dinner,Fresh Butter Croissants,140,186.13,pieces
+Sapphire Suites & Convention,2026-12-04,Breakfast,Fresh Butter Croissants,171,261.05,pieces
+Sapphire Suites & Convention,2026-12-04,Lunch,Butter Chicken Gravy,212,49.48,kg
+Sapphire Suites & Convention,2026-12-04,Dinner,Warm Chocolate Brownies,197,227.39,pieces
+The Grand Horizon Palace,2026-12-05,Breakfast,Dal Makhani,266,45.76,kg
+The Grand Horizon Palace,2026-12-05,Lunch,Mediterranean Garden Salad,336,36.72,kg
+The Grand Horizon Palace,2026-12-05,Dinner,Paneer Tikka Masala,302,64.39,kg
+Royal Palm Resort & Spa,2026-12-05,Breakfast,Paneer Tikka Masala,221,48.29,kg
+Royal Palm Resort & Spa,2026-12-05,Lunch,Grilled Chicken Breast Cutlets,248,51.25,kg
+Royal Palm Resort & Spa,2026-12-05,Dinner,Paneer Tikka Masala,211,41.24,kg
+Highland View Heritage Inn,2026-12-05,Breakfast,Crispy Hash Browns,109,198.9,pieces
+Highland View Heritage Inn,2026-12-05,Lunch,Fresh Orange & Fruit Juice,120,30.06,litres
+Highland View Heritage Inn,2026-12-05,Dinner,Artisan Dinner Rolls,97,116.58,pieces
+Azure Bay Business Hotel,2026-12-05,Breakfast,Dal Makhani,153,22.28,kg
+Azure Bay Business Hotel,2026-12-05,Lunch,Fresh Scrambled Eggs,168,22.61,kg
+Azure Bay Business Hotel,2026-12-05,Dinner,Steamed Basmati Rice,171,33.97,kg
+Sapphire Suites & Convention,2026-12-05,Breakfast,Artisan Dinner Rolls,199,248.02,pieces
+Sapphire Suites & Convention,2026-12-05,Lunch,Brewed Roast Coffee,284,55.92,litres
+Sapphire Suites & Convention,2026-12-05,Dinner,Fresh Scrambled Eggs,243,35.36,kg
+The Grand Horizon Palace,2026-12-06,Breakfast,Fresh Orange & Fruit Juice,179,48.02,litres
+The Grand Horizon Palace,2026-12-06,Lunch,Fresh Butter Croissants,221,312.39,pieces
+The Grand Horizon Palace,2026-12-06,Dinner,Vanilla Panna Cotta Cups,222,210.22,pieces
+Royal Palm Resort & Spa,2026-12-06,Breakfast,Plain Greek Yogurt,171,22.73,kg
+Royal Palm Resort & Spa,2026-12-06,Lunch,Grilled Chicken Breast Cutlets,226,45.86,kg
+Royal Palm Resort & Spa,2026-12-06,Dinner,Dal Makhani,196,33.7,kg
+Highland View Heritage Inn,2026-12-06,Breakfast,Plain Greek Yogurt,69,8.89,kg
+Highland View Heritage Inn,2026-12-06,Lunch,Fresh Orange & Fruit Juice,98,25.37,litres
+Highland View Heritage Inn,2026-12-06,Dinner,Whole Fresh Milk,82,12.46,litres
+Azure Bay Business Hotel,2026-12-06,Breakfast,Dal Makhani,113,18.22,kg
+Azure Bay Business Hotel,2026-12-06,Lunch,Mediterranean Garden Salad,131,15.69,kg
+Azure Bay Business Hotel,2026-12-06,Dinner,Fresh Orange & Fruit Juice,116,28.43,litres
+Sapphire Suites & Convention,2026-12-06,Breakfast,Fresh Orange & Fruit Juice,161,43.24,litres
+Sapphire Suites & Convention,2026-12-06,Lunch,Steamed Basmati Rice,197,32.79,kg
+Sapphire Suites & Convention,2026-12-06,Dinner,Fresh Orange & Fruit Juice,204,47.83,litres
+The Grand Horizon Palace,2026-12-07,Breakfast,Fresh Orange & Fruit Juice,154,41.97,litres
+The Grand Horizon Palace,2026-12-07,Lunch,Fresh Orange & Fruit Juice,175,40.26,litres
+The Grand Horizon Palace,2026-12-07,Dinner,Fresh Orange & Fruit Juice,182,41.99,litres
+Royal Palm Resort & Spa,2026-12-07,Breakfast,Fresh Scrambled Eggs,118,16.24,kg
+Royal Palm Resort & Spa,2026-12-07,Lunch,Fresh Scrambled Eggs,168,23.35,kg
+Royal Palm Resort & Spa,2026-12-07,Dinner,Plain Greek Yogurt,130,16.92,kg
+Highland View Heritage Inn,2026-12-07,Breakfast,Whole Fresh Milk,64,9.32,litres
+Highland View Heritage Inn,2026-12-07,Lunch,Whole Fresh Milk,74,12.28,litres
+Highland View Heritage Inn,2026-12-07,Dinner,Brewed Roast Coffee,70,15.42,litres
+Azure Bay Business Hotel,2026-12-07,Breakfast,Grilled Chicken Breast Cutlets,80,15.88,kg
+Azure Bay Business Hotel,2026-12-07,Lunch,Fresh Orange & Fruit Juice,133,34.49,litres
+Azure Bay Business Hotel,2026-12-07,Dinner,Butter Chicken Gravy,113,24.13,kg
+Sapphire Suites & Convention,2026-12-07,Breakfast,Fresh Orange & Fruit Juice,136,34.6,litres
+Sapphire Suites & Convention,2026-12-07,Lunch,Vanilla Panna Cotta Cups,172,172.57,pieces
+Sapphire Suites & Convention,2026-12-07,Dinner,Dal Makhani,146,25.11,kg
+The Grand Horizon Palace,2026-12-08,Breakfast,Warm Chocolate Brownies,138,141.76,pieces
+The Grand Horizon Palace,2026-12-08,Lunch,Brewed Roast Coffee,221,47.63,litres
+The Grand Horizon Palace,2026-12-08,Dinner,Fresh Scrambled Eggs,154,19.7,kg
+Royal Palm Resort & Spa,2026-12-08,Breakfast,Steamed Basmati Rice,120,23.28,kg
+Royal Palm Resort & Spa,2026-12-08,Lunch,Artisan Dinner Rolls,174,236.3,pieces
+Royal Palm Resort & Spa,2026-12-08,Dinner,Artisan Dinner Rolls,137,188.98,pieces
+Highland View Heritage Inn,2026-12-08,Breakfast,Warm Chocolate Brownies,62,74.7,pieces
+Highland View Heritage Inn,2026-12-08,Lunch,Paneer Tikka Masala,84,16.0,kg
+Highland View Heritage Inn,2026-12-08,Dinner,Butter Chicken Gravy,66,13.6,kg
+Azure Bay Business Hotel,2026-12-08,Breakfast,Crispy Hash Browns,103,192.08,pieces
+Azure Bay Business Hotel,2026-12-08,Lunch,Fresh Scrambled Eggs,132,17.75,kg
+Azure Bay Business Hotel,2026-12-08,Dinner,Dal Makhani,92,14.76,kg
+Sapphire Suites & Convention,2026-12-08,Breakfast,Brewed Roast Coffee,137,25.22,litres
+Sapphire Suites & Convention,2026-12-08,Lunch,Artisan Dinner Rolls,189,245.33,pieces
+Sapphire Suites & Convention,2026-12-08,Dinner,Dal Makhani,135,23.64,kg
+The Grand Horizon Palace,2026-12-09,Breakfast,Fresh Scrambled Eggs,140,19.85,kg
+The Grand Horizon Palace,2026-12-09,Lunch,Brewed Roast Coffee,192,35.87,litres
+The Grand Horizon Palace,2026-12-09,Dinner,Whole Fresh Milk,197,28.02,litres
+Royal Palm Resort & Spa,2026-12-09,Breakfast,Butter Chicken Gravy,126,30.19,kg
+Royal Palm Resort & Spa,2026-12-09,Lunch,Fresh Orange & Fruit Juice,171,40.13,litres
+Royal Palm Resort & Spa,2026-12-09,Dinner,Dal Makhani,141,22.77,kg
+Highland View Heritage Inn,2026-12-09,Breakfast,Grilled Chicken Breast Cutlets,61,11.98,kg
+Highland View Heritage Inn,2026-12-09,Lunch,Artisan Dinner Rolls,74,101.95,pieces
+Highland View Heritage Inn,2026-12-09,Dinner,Fresh Butter Croissants,60,86.47,pieces
+Azure Bay Business Hotel,2026-12-09,Breakfast,Paneer Tikka Masala,89,17.29,kg
+Azure Bay Business Hotel,2026-12-09,Lunch,Warm Chocolate Brownies,116,130.45,pieces
+Azure Bay Business Hotel,2026-12-09,Dinner,Plain Greek Yogurt,115,14.87,kg
+Sapphire Suites & Convention,2026-12-09,Breakfast,Plain Greek Yogurt,140,17.57,kg
+Sapphire Suites & Convention,2026-12-09,Lunch,Fresh Butter Croissants,149,201.11,pieces
+Sapphire Suites & Convention,2026-12-09,Dinner,Fresh Butter Croissants,130,189.0,pieces
+The Grand Horizon Palace,2026-12-10,Breakfast,Artisan Dinner Rolls,151,177.01,pieces
+The Grand Horizon Palace,2026-12-10,Lunch,Artisan Dinner Rolls,175,234.67,pieces
+The Grand Horizon Palace,2026-12-10,Dinner,Fresh Scrambled Eggs,166,21.66,kg
+Royal Palm Resort & Spa,2026-12-10,Breakfast,Vanilla Panna Cotta Cups,129,121.46,pieces
+Royal Palm Resort & Spa,2026-12-10,Lunch,Crispy Hash Browns,161,270.98,pieces
+Royal Palm Resort & Spa,2026-12-10,Dinner,Fresh Scrambled Eggs,145,20.77,kg
+Highland View Heritage Inn,2026-12-10,Breakfast,Dal Makhani,65,11.42,kg
+Highland View Heritage Inn,2026-12-10,Lunch,Crispy Hash Browns,72,139.92,pieces
+Highland View Heritage Inn,2026-12-10,Dinner,Plain Greek Yogurt,75,9.41,kg
+Azure Bay Business Hotel,2026-12-10,Breakfast,Steamed Basmati Rice,93,15.56,kg
+Azure Bay Business Hotel,2026-12-10,Lunch,Grilled Chicken Breast Cutlets,121,26.6,kg
+Azure Bay Business Hotel,2026-12-10,Dinner,Mediterranean Garden Salad,110,12.49,kg
+Sapphire Suites & Convention,2026-12-10,Breakfast,Mediterranean Garden Salad,139,15.25,kg
+Sapphire Suites & Convention,2026-12-10,Lunch,Warm Chocolate Brownies,171,190.46,pieces
+Sapphire Suites & Convention,2026-12-10,Dinner,Butter Chicken Gravy,152,32.01,kg
+The Grand Horizon Palace,2026-12-11,Breakfast,Steamed Basmati Rice,225,40.59,kg
+The Grand Horizon Palace,2026-12-11,Lunch,Butter Chicken Gravy,227,55.4,kg
+The Grand Horizon Palace,2026-12-11,Dinner,Plain Greek Yogurt,196,22.62,kg
+Royal Palm Resort & Spa,2026-12-11,Breakfast,Vanilla Panna Cotta Cups,165,176.25,pieces
+Royal Palm Resort & Spa,2026-12-11,Lunch,Warm Chocolate Brownies,226,232.97,pieces
+Royal Palm Resort & Spa,2026-12-11,Dinner,Plain Greek Yogurt,167,19.27,kg
+Highland View Heritage Inn,2026-12-11,Breakfast,Whole Fresh Milk,77,11.77,litres
+Highland View Heritage Inn,2026-12-11,Lunch,Paneer Tikka Masala,99,20.13,kg
+Highland View Heritage Inn,2026-12-11,Dinner,Whole Fresh Milk,86,13.01,litres
+Azure Bay Business Hotel,2026-12-11,Breakfast,Fresh Butter Croissants,122,173.3,pieces
+Azure Bay Business Hotel,2026-12-11,Lunch,Plain Greek Yogurt,164,19.9,kg
+Azure Bay Business Hotel,2026-12-11,Dinner,Mediterranean Garden Salad,125,13.06,kg
+Sapphire Suites & Convention,2026-12-11,Breakfast,Vanilla Panna Cotta Cups,182,185.15,pieces
+Sapphire Suites & Convention,2026-12-11,Lunch,Butter Chicken Gravy,215,44.81,kg
+Sapphire Suites & Convention,2026-12-11,Dinner,Warm Chocolate Brownies,175,189.9,pieces
+The Grand Horizon Palace,2026-12-12,Breakfast,Steamed Basmati Rice,221,36.48,kg
+The Grand Horizon Palace,2026-12-12,Lunch,Dal Makhani,260,40.46,kg
+The Grand Horizon Palace,2026-12-12,Dinner,Brewed Roast Coffee,305,59.24,litres
+Royal Palm Resort & Spa,2026-12-12,Breakfast,Whole Fresh Milk,205,30.04,litres
+Royal Palm Resort & Spa,2026-12-12,Lunch,Artisan Dinner Rolls,255,323.43,pieces
+Royal Palm Resort & Spa,2026-12-12,Dinner,Dal Makhani,231,36.42,kg
+Highland View Heritage Inn,2026-12-12,Breakfast,Fresh Scrambled Eggs,100,13.11,kg
+Highland View Heritage Inn,2026-12-12,Lunch,Grilled Chicken Breast Cutlets,108,22.04,kg
+Highland View Heritage Inn,2026-12-12,Dinner,Vanilla Panna Cotta Cups,118,123.43,pieces
+Azure Bay Business Hotel,2026-12-12,Breakfast,Warm Chocolate Brownies,151,180.54,pieces
+Azure Bay Business Hotel,2026-12-12,Lunch,Paneer Tikka Masala,177,34.69,kg
+Azure Bay Business Hotel,2026-12-12,Dinner,Fresh Orange & Fruit Juice,157,40.37,litres
+Sapphire Suites & Convention,2026-12-12,Breakfast,Paneer Tikka Masala,238,52.6,kg
+Sapphire Suites & Convention,2026-12-12,Lunch,Grilled Chicken Breast Cutlets,266,57.1,kg
+Sapphire Suites & Convention,2026-12-12,Dinner,Paneer Tikka Masala,260,48.8,kg
+The Grand Horizon Palace,2026-12-13,Breakfast,Dal Makhani,174,28.66,kg
+The Grand Horizon Palace,2026-12-13,Lunch,Steamed Basmati Rice,228,41.9,kg
+The Grand Horizon Palace,2026-12-13,Dinner,Dal Makhani,229,36.12,kg
+Royal Palm Resort & Spa,2026-12-13,Breakfast,Warm Chocolate Brownies,151,165.49,pieces
+Royal Palm Resort & Spa,2026-12-13,Lunch,Butter Chicken Gravy,212,47.31,kg
+Royal Palm Resort & Spa,2026-12-13,Dinner,Crispy Hash Browns,178,305.09,pieces
+Highland View Heritage Inn,2026-12-13,Breakfast,Crispy Hash Browns,86,147.52,pieces
+Highland View Heritage Inn,2026-12-13,Lunch,Grilled Chicken Breast Cutlets,106,23.9,kg
+Highland View Heritage Inn,2026-12-13,Dinner,Fresh Scrambled Eggs,80,11.99,kg
+Azure Bay Business Hotel,2026-12-13,Breakfast,Fresh Scrambled Eggs,115,16.06,kg
+Azure Bay Business Hotel,2026-12-13,Lunch,Fresh Butter Croissants,147,197.83,pieces
+Azure Bay Business Hotel,2026-12-13,Dinner,Fresh Orange & Fruit Juice,138,34.14,litres
+Sapphire Suites & Convention,2026-12-13,Breakfast,Fresh Butter Croissants,169,239.73,pieces
+Sapphire Suites & Convention,2026-12-13,Lunch,Dal Makhani,200,33.63,kg
+Sapphire Suites & Convention,2026-12-13,Dinner,Mediterranean Garden Salad,203,23.78,kg
+The Grand Horizon Palace,2026-12-14,Breakfast,Fresh Orange & Fruit Juice,159,39.58,litres
+The Grand Horizon Palace,2026-12-14,Lunch,Mediterranean Garden Salad,170,18.87,kg
+The Grand Horizon Palace,2026-12-14,Dinner,Butter Chicken Gravy,172,38.53,kg
+Royal Palm Resort & Spa,2026-12-14,Breakfast,Paneer Tikka Masala,115,22.3,kg
+Royal Palm Resort & Spa,2026-12-14,Lunch,Artisan Dinner Rolls,177,245.53,pieces
+Royal Palm Resort & Spa,2026-12-14,Dinner,Fresh Butter Croissants,139,210.86,pieces
+Highland View Heritage Inn,2026-12-14,Breakfast,Paneer Tikka Masala,55,10.54,kg
+Highland View Heritage Inn,2026-12-14,Lunch,Crispy Hash Browns,78,145.98,pieces
+Highland View Heritage Inn,2026-12-14,Dinner,Vanilla Panna Cotta Cups,74,73.78,pieces
+Azure Bay Business Hotel,2026-12-14,Breakfast,Paneer Tikka Masala,79,14.66,kg
+Azure Bay Business Hotel,2026-12-14,Lunch,Dal Makhani,127,19.43,kg
+Azure Bay Business Hotel,2026-12-14,Dinner,Butter Chicken Gravy,100,21.87,kg
+Sapphire Suites & Convention,2026-12-14,Breakfast,Artisan Dinner Rolls,148,168.36,pieces
+Sapphire Suites & Convention,2026-12-14,Lunch,Butter Chicken Gravy,170,34.07,kg
+Sapphire Suites & Convention,2026-12-14,Dinner,Butter Chicken Gravy,171,34.88,kg
+The Grand Horizon Palace,2026-12-15,Breakfast,Fresh Orange & Fruit Juice,175,41.54,litres
+The Grand Horizon Palace,2026-12-15,Lunch,Vanilla Panna Cotta Cups,211,212.54,pieces
+The Grand Horizon Palace,2026-12-15,Dinner,Fresh Orange & Fruit Juice,172,39.86,litres
+Royal Palm Resort & Spa,2026-12-15,Breakfast,Butter Chicken Gravy,119,24.92,kg
+Royal Palm Resort & Spa,2026-12-15,Lunch,Brewed Roast Coffee,186,41.16,litres
+Royal Palm Resort & Spa,2026-12-15,Dinner,Steamed Basmati Rice,140,24.95,kg
+Highland View Heritage Inn,2026-12-15,Breakfast,Artisan Dinner Rolls,64,80.89,pieces
+Highland View Heritage Inn,2026-12-15,Lunch,Brewed Roast Coffee,71,13.18,litres
+Highland View Heritage Inn,2026-12-15,Dinner,Dal Makhani,64,10.4,kg
+Azure Bay Business Hotel,2026-12-15,Breakfast,Dal Makhani,85,14.0,kg
+Azure Bay Business Hotel,2026-12-15,Lunch,Whole Fresh Milk,115,16.98,litres
+Azure Bay Business Hotel,2026-12-15,Dinner,Artisan Dinner Rolls,107,137.6,pieces
+Sapphire Suites & Convention,2026-12-15,Breakfast,Artisan Dinner Rolls,115,131.72,pieces
+Sapphire Suites & Convention,2026-12-15,Lunch,Plain Greek Yogurt,159,17.98,kg
+Sapphire Suites & Convention,2026-12-15,Dinner,Vanilla Panna Cotta Cups,148,144.27,pieces
+The Grand Horizon Palace,2026-12-16,Breakfast,Fresh Butter Croissants,175,253.67,pieces
+The Grand Horizon Palace,2026-12-16,Lunch,Artisan Dinner Rolls,195,259.8,pieces
+The Grand Horizon Palace,2026-12-16,Dinner,Paneer Tikka Masala,162,30.55,kg
+Royal Palm Resort & Spa,2026-12-16,Breakfast,Plain Greek Yogurt,142,18.87,kg
+Royal Palm Resort & Spa,2026-12-16,Lunch,Fresh Scrambled Eggs,143,18.86,kg
+Royal Palm Resort & Spa,2026-12-16,Dinner,Grilled Chicken Breast Cutlets,140,29.64,kg
+Highland View Heritage Inn,2026-12-16,Breakfast,Fresh Scrambled Eggs,55,8.13,kg
+Highland View Heritage Inn,2026-12-16,Lunch,Whole Fresh Milk,83,13.12,litres
+Highland View Heritage Inn,2026-12-16,Dinner,Plain Greek Yogurt,60,7.93,kg
+Azure Bay Business Hotel,2026-12-16,Breakfast,Brewed Roast Coffee,80,15.24,litres
+Azure Bay Business Hotel,2026-12-16,Lunch,Fresh Scrambled Eggs,131,18.14,kg
+Azure Bay Business Hotel,2026-12-16,Dinner,Brewed Roast Coffee,90,18.64,litres
+Sapphire Suites & Convention,2026-12-16,Breakfast,Warm Chocolate Brownies,116,132.39,pieces
+Sapphire Suites & Convention,2026-12-16,Lunch,Dal Makhani,156,25.75,kg
+Sapphire Suites & Convention,2026-12-16,Dinner,Whole Fresh Milk,136,20.51,litres
+The Grand Horizon Palace,2026-12-17,Breakfast,Fresh Orange & Fruit Juice,155,39.37,litres
+The Grand Horizon Palace,2026-12-17,Lunch,Grilled Chicken Breast Cutlets,179,37.8,kg
+The Grand Horizon Palace,2026-12-17,Dinner,Brewed Roast Coffee,158,29.49,litres
+Royal Palm Resort & Spa,2026-12-17,Breakfast,Fresh Butter Croissants,143,201.69,pieces
+Royal Palm Resort & Spa,2026-12-17,Lunch,Whole Fresh Milk,172,25.06,litres
+Royal Palm Resort & Spa,2026-12-17,Dinner,Paneer Tikka Masala,137,27.96,kg
+Highland View Heritage Inn,2026-12-17,Breakfast,Steamed Basmati Rice,69,12.03,kg
+Highland View Heritage Inn,2026-12-17,Lunch,Fresh Scrambled Eggs,69,10.26,kg
+Highland View Heritage Inn,2026-12-17,Dinner,Fresh Scrambled Eggs,62,8.17,kg
+Azure Bay Business Hotel,2026-12-17,Breakfast,Paneer Tikka Masala,89,16.77,kg
+Azure Bay Business Hotel,2026-12-17,Lunch,Fresh Orange & Fruit Juice,113,27.39,litres
+Azure Bay Business Hotel,2026-12-17,Dinner,Steamed Basmati Rice,96,16.68,kg
+Sapphire Suites & Convention,2026-12-17,Breakfast,Brewed Roast Coffee,119,23.52,litres
+Sapphire Suites & Convention,2026-12-17,Lunch,Fresh Butter Croissants,186,255.97,pieces
+Sapphire Suites & Convention,2026-12-17,Dinner,Butter Chicken Gravy,145,33.01,kg
+The Grand Horizon Palace,2026-12-18,Breakfast,Plain Greek Yogurt,243,29.9,kg
+The Grand Horizon Palace,2026-12-18,Lunch,Fresh Orange & Fruit Juice,282,64.34,litres
+The Grand Horizon Palace,2026-12-18,Dinner,Dal Makhani,285,49.34,kg
+Royal Palm Resort & Spa,2026-12-18,Breakfast,Paneer Tikka Masala,217,44.95,kg
+Royal Palm Resort & Spa,2026-12-18,Lunch,Steamed Basmati Rice,275,47.08,kg
+Royal Palm Resort & Spa,2026-12-18,Dinner,Fresh Butter Croissants,202,292.63,pieces
+Highland View Heritage Inn,2026-12-18,Breakfast,Brewed Roast Coffee,84,15.39,litres
+Highland View Heritage Inn,2026-12-18,Lunch,Fresh Orange & Fruit Juice,109,28.2,litres
+Highland View Heritage Inn,2026-12-18,Dinner,Butter Chicken Gravy,120,28.73,kg
+Azure Bay Business Hotel,2026-12-18,Breakfast,Artisan Dinner Rolls,152,174.12,pieces
+Azure Bay Business Hotel,2026-12-18,Lunch,Butter Chicken Gravy,167,39.53,kg
+Azure Bay Business Hotel,2026-12-18,Dinner,Warm Chocolate Brownies,174,182.91,pieces
+Sapphire Suites & Convention,2026-12-18,Breakfast,Steamed Basmati Rice,233,45.16,kg
+Sapphire Suites & Convention,2026-12-18,Lunch,Fresh Butter Croissants,292,406.28,pieces
+Sapphire Suites & Convention,2026-12-18,Dinner,Brewed Roast Coffee,203,42.7,litres
+The Grand Horizon Palace,2026-12-19,Breakfast,Crispy Hash Browns,201,392.22,pieces
+The Grand Horizon Palace,2026-12-19,Lunch,Paneer Tikka Masala,285,51.93,kg
+The Grand Horizon Palace,2026-12-19,Dinner,Fresh Butter Croissants,212,315.71,pieces
+Royal Palm Resort & Spa,2026-12-19,Breakfast,Warm Chocolate Brownies,170,186.26,pieces
+Royal Palm Resort & Spa,2026-12-19,Lunch,Warm Chocolate Brownies,217,245.62,pieces
+Royal Palm Resort & Spa,2026-12-19,Dinner,Dal Makhani,166,28.49,kg
+Highland View Heritage Inn,2026-12-19,Breakfast,Brewed Roast Coffee,89,18.86,litres
+Highland View Heritage Inn,2026-12-19,Lunch,Brewed Roast Coffee,95,20.37,litres
+Highland View Heritage Inn,2026-12-19,Dinner,Crispy Hash Browns,99,165.06,pieces
+Azure Bay Business Hotel,2026-12-19,Breakfast,Butter Chicken Gravy,123,25.09,kg
+Azure Bay Business Hotel,2026-12-19,Lunch,Steamed Basmati Rice,165,31.3,kg
+Azure Bay Business Hotel,2026-12-19,Dinner,Fresh Butter Croissants,138,202.18,pieces
+Sapphire Suites & Convention,2026-12-19,Breakfast,Fresh Butter Croissants,182,282.42,pieces
+Sapphire Suites & Convention,2026-12-19,Lunch,Fresh Butter Croissants,212,272.53,pieces
+Sapphire Suites & Convention,2026-12-19,Dinner,Warm Chocolate Brownies,212,249.87,pieces
+The Grand Horizon Palace,2026-12-20,Breakfast,Dal Makhani,190,30.98,kg
+The Grand Horizon Palace,2026-12-20,Lunch,Grilled Chicken Breast Cutlets,262,56.02,kg
+The Grand Horizon Palace,2026-12-20,Dinner,Artisan Dinner Rolls,231,303.01,pieces
+Royal Palm Resort & Spa,2026-12-20,Breakfast,Crispy Hash Browns,153,304.99,pieces
+Royal Palm Resort & Spa,2026-12-20,Lunch,Crispy Hash Browns,201,372.96,pieces
+Royal Palm Resort & Spa,2026-12-20,Dinner,Butter Chicken Gravy,211,48.01,kg
+Highland View Heritage Inn,2026-12-20,Breakfast,Dal Makhani,84,12.65,kg
+Highland View Heritage Inn,2026-12-20,Lunch,Fresh Scrambled Eggs,99,13.02,kg
+Highland View Heritage Inn,2026-12-20,Dinner,Warm Chocolate Brownies,84,84.17,pieces
+Azure Bay Business Hotel,2026-12-20,Breakfast,Vanilla Panna Cotta Cups,126,117.97,pieces
+Azure Bay Business Hotel,2026-12-20,Lunch,Fresh Butter Croissants,158,228.38,pieces
+Azure Bay Business Hotel,2026-12-20,Dinner,Mediterranean Garden Salad,135,15.24,kg
+Sapphire Suites & Convention,2026-12-20,Breakfast,Crispy Hash Browns,174,304.23,pieces
+Sapphire Suites & Convention,2026-12-20,Lunch,Plain Greek Yogurt,230,29.34,kg
+Sapphire Suites & Convention,2026-12-20,Dinner,Warm Chocolate Brownies,198,219.23,pieces

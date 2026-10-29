@@ -1,0 +1,11 @@
+hotel_name,record_date,meal_type,food_item_name,actual_guest_count,actual_quantity_consumed,unit,actual_quantity_prepared,waste_quantity,occupancy_rate,is_weekend,is_holiday_or_event,season
+Azure Bay Business Hotel,2026-10-26,Breakfast,Fresh Orange & Fruit Juice,100,26.31,litres,27.72,1.41,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Brewed Roast Coffee,100,20.49,litres,21.88,1.39,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Whole Fresh Milk,100,14.44,litres,15.1,0.66,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Plain Greek Yogurt,100,12.34,kg,13.25,0.91,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Fresh Butter Croissants,100,143.05,pieces,154.24,11.19,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Artisan Dinner Rolls,100,125.68,pieces,133.19,7.51,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Fresh Scrambled Eggs,100,15.09,kg,16.27,1.18,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Breakfast,Crispy Hash Browns,100,183.39,pieces,196.15,12.76,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Steamed Basmati Rice,80,14.47,kg,15.18,0.71,0.56,0,0,Autumn
+Azure Bay Business Hotel,2026-10-26,Dinner,Butter Chicken Gravy,80,16.93,kg,17.74,0.81,0.56,0,0,Autumn
