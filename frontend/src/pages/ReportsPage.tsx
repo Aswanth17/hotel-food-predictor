@@ -129,7 +129,7 @@ export const ReportsPage: React.FC = () => {
                 <div className="h-52">
                   <ResponsiveContainer>
                     <PieChart>
-                      <Pie data={report.meal_distribution} dataKey="count" nameKey="meal_type" cx="50%" cy="50%" outerRadius={80} label={({ meal_type, percent }) => `${meal_type} ${(percent * 100).toFixed(0)}%`} labelLine={false} fontSize={10}>
+                      <Pie data={report.meal_distribution} dataKey="count" nameKey="meal_type" cx="50%" cy="50%" outerRadius={80} label={(entry: any) => `${entry.meal_type || ''} ${(((entry.percent as number) || 0) * 100).toFixed(0)}%`} labelLine={false} fontSize={10}>
                         {report.meal_distribution.map((entry: any, i: number) => (
                           <Cell key={i} fill={(mealColors as any)[entry.meal_type] || GREENS[i % GREENS.length]} />
                         ))}
